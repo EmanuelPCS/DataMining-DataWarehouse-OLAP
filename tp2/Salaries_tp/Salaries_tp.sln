@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2092
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Salaries_tp", "Salaries_tp\Salaries_tp.dwproj", "{5A3AF012-21C7-4B50-BF56-65B42E5DC3FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A3AF012-21C7-4B50-BF56-65B42E5DC3FB}.Development|Default.ActiveCfg = Development
+		{5A3AF012-21C7-4B50-BF56-65B42E5DC3FB}.Development|Default.Build.0 = Development
+		{5A3AF012-21C7-4B50-BF56-65B42E5DC3FB}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6871405-4E31-49D7-841B-625EBF8D3660}
+	EndGlobalSection
+EndGlobal
