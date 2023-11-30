@@ -2,7 +2,7 @@
 Project developed in SI2 (Sistemas Informação 2) class.
 
 # Languages/Frameworks/Tools used:
-  # Part One [Data warehouses e OLAP]:
+  # Part One [Data warehouses and OLAP]:
     - Visual Studio;
     - Data Warehouse;
     - ETL Project to load the Data Warehouse- SQL Server Integration Services (SSIS);
