@@ -1,7 +1,7 @@
 # DataMining-DataWarehouse-OLAP
 Project developed in SI2 (Sistemas Informação 2) class.
 
-# Languages/Frameworks/Tools used:
+## Languages/Frameworks/Tools used:
   # Part One [Data warehouses and OLAP]:
     - Visual Studio;
     - Data Warehouse;
