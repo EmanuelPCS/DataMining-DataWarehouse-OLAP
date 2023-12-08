@@ -1,6 +1,9 @@
 # DataMining-DataWarehouse-OLAP
 Project developed in SI2 (Sistemas Informação 2) class.
 
+## About the Project
+This project aims to analyze and report data from a data warehouse, as well as use classifiers (Decision Trees, Naive Bayes, Neural Network, among others) to create models capable of analyzing data related to residents in the United States.
+
 ## Languages/Frameworks/Tools used:
   ### Part One [Data warehouses and OLAP]:
     - Visual Studio;
